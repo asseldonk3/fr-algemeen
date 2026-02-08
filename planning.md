@@ -21,8 +21,8 @@ Dit document bevat alle taken die uitgevoerd moeten worden voor de Proeve van Be
 - [ ] Alle kerntaken en werkprocessen doorlopen
 - [ ] Checken of alle werkzaamheden uitvoerbaar zijn bij ASML
 - [ ] Overleg met praktijkbegeleider over de opdracht (illumination module build + kwalificatie)
-- [ ] Korte omschrijving van de opdracht schrijven
-- [ ] Korte omschrijving inleveren in Canvas
+- [x] Korte omschrijving van de opdracht schrijven
+- [x] Korte omschrijving inleveren in Canvas (goedgekeurd)
 
 ## Fase 3: Organisatie
 
@@ -106,7 +106,7 @@ Dit document bevat alle taken die uitgevoerd moeten worden voor de Proeve van Be
 
 | Document | Status | Beschrijving |
 |----------|--------|-------------|
-| Korte omschrijving | ⬜ Te maken | Korte beschrijving opdracht voor Canvas |
+| Korte omschrijving | ✅ Goedgekeurd | Korte beschrijving opdracht voor Canvas |
 | Definitieve opdrachtomschrijving | ⬜ Te maken | Voor het officiële Word-formulier / EsMEI |
 | Projectmap | ⬜ Te maken | Eén document met alle bewijslast per werkproces |
 | Eindpresentatie | ⬜ Te maken | PowerPoint voor eindgesprek |

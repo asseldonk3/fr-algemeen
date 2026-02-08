@@ -8,27 +8,41 @@
 - **BPV-bedrijf:** ASML
 
 ## Opdrachttitel
-**Opbouwen en kwalificeren van de illumination module - ASML TWINSCAN XT:860**
+**Installatie topmodule illumination - ASML XT400M machine**
+
+## Locatie en context
+- **Locatie:** ASML gebouw 4, cleanroom, cabine 4G12
+- **Shift:** 3de shift
+- **Samenwerking:** Samen met een collega
 
 ## Opdrachtomschrijving
 
-De opdracht betreft het volledig opbouwen (builden) en kwalificeren van de illumination module van een ASML TWINSCAN XT:860 DUV lithografiemachine binnen de 860 module buildmachine afdeling.
+De opdracht betreft het installeren van de topmodule op een ASML 'XT400M' machine binnen de 860 module buildmachine afdeling (illumination). De module wordt samen met een collega aan de machine gemonteerd.
 
 ### Wat houdt de opdracht in?
 
-**Opbouw (build):**
-- Voorbereiden van de werkzaamheden: werkorders, tekeningen en procedures doornemen
-- Verzamelen van benodigde materialen, onderdelen en gereedschap
-- Mechanische montage van componenten volgens bouwinstructies
-- Elektrische aansluitingen en bekabeling aanbrengen
-- Optische componenten plaatsen en alignen
-- Pneumatische aansluitingen realiseren
+**Voorbereiding:**
+- Procedure goed lezen en doornemen, informatie verzamelen
+- Werkzaamheden afstemmen met collega: samen besluiten hoe we het gaan uitvoeren
+- LMRA (Laatste Minuut Risico Analyse) uitvoeren
+- Waardes instellen: 4 poten en 3 pinnen afmeten met schuifmaat
+- Alleen bijstellen als er afwijkingen zijn
 
-**Kwalificatie:**
-- Uitvoeren van kwalificatietesten volgens testprocedures
-- Meten en controleren of de module aan specificaties voldoet
-- Afwijkingen signaleren en rapporteren
-- Resultaten vastleggen in de daarvoor bestemde documenten/systemen
+**Opbouw / Installatie:**
+- Module heisen (veilig werken, goede communicatie)
+- Module vast monteren aan de machine
+- Slangen aansluiten en connectoren verbinden aan de module
+- Taken verdelen en strikt aan houden
+
+**Kwalificatie / Testen:**
+- Testen of er geen afwijkingen zijn
+- Kwaliteit van de hele installatie controleren
+- Voortgang bewaken
+
+**Afronden:**
+- Werkzaamheden afronden
+- Feedback ontvangen van collega/stagaire over instructie en samenwerking
+- Richtlijnen van school volgen bij documentatie
 
 ### Tijdsduur
 - **Startdatum:** _[in te vullen]_
