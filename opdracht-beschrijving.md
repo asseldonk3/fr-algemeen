@@ -8,7 +8,7 @@
 - **BPV-bedrijf:** ASML
 
 ## Opdrachttitel
-**Installatie topmodule illumination - ASML XT400M machine**
+**Installatie topmodule illumination - ASML TWINSCAN XT:860**
 
 ## Locatie en context
 - **Locatie:** ASML gebouw 4, cleanroom, cabine 4G12
@@ -17,7 +17,7 @@
 
 ## Opdrachtomschrijving
 
-De opdracht betreft het installeren van de topmodule op een ASML 'XT400M' machine binnen de 860 module buildmachine afdeling (illumination). De module wordt samen met een collega aan de machine gemonteerd.
+De opdracht betreft het installeren van de topmodule (illumination) op een ASML TWINSCAN XT:860 machine binnen de 860 module buildmachine afdeling. De module wordt samen met een collega aan de machine gemonteerd.
 
 ### Wat houdt de opdracht in?
 
@@ -41,11 +41,11 @@ De opdracht betreft het installeren van de topmodule op een ASML 'XT400M' machin
 
 **Afronden:**
 - Werkzaamheden afronden
-- Feedback ontvangen van collega/stagaire over instructie en samenwerking
+- Feedback ontvangen van collega over instructie en samenwerking
 - Richtlijnen van school volgen bij documentatie
 
 ### Tijdsduur
-- **Startdatum:** _[in te vullen]_
+- **Startdatum:** ca. 22 februari 2026 (over 2 weken)
 - **Einddatum:** 1 juli 2026
 
 ## Kerntaken en werkprocessen
