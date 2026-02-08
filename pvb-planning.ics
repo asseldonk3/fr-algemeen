@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PvB Mechatronica//Planning//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PvB Mechatronica XT:860
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260221
+SUMMARY:[Fase 4] Definitieve opdrachtomschrijving schrijven
+DESCRIPTION:Word-document 'Formulier Opdracht PvB' invullen:\n- Eerste pagina volledig invullen\n- Titel: Installatie topmodule illumination XT:860\n- Start: 22 feb / Eind: 1 jul 2026\n- Opdrachtomschrijving met alle kerntaken + werkprocessen\n- Rode tekst vervangen door eigen tekst\n- Uploaden in EsMEI bij 'Opdrachtomschrijving'
+LOCATION:Thuis / School
+STATUS:CONFIRMED
+UID:pvb-fase4-schrijven@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:[Fase 4] DEADLINE: Opdrachtomschrijving klaar + upload EsMEI
+DESCRIPTION:Definitieve opdrachtomschrijving moet klaar zijn en geupload in EsMEI.\nDaarna laten accorderen door:\n1. Praktijkbegeleider\n2. Summa begeleider\n3. Jijzelf (LET OP: hierna definitief!)
+LOCATION:EsMEI
+STATUS:CONFIRMED
+UID:pvb-fase4-deadline@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260221
+SUMMARY:[Fase 4] Accordering opdrachtomschrijving regelen
+DESCRIPTION:Zorg dat praktijkbegeleider en Summa begeleider de opdrachtomschrijving accorderen in EsMEI.\nPas daarna zelf accorderen (hierna kan niets meer gewijzigd worden).
+LOCATION:EsMEI
+STATUS:CONFIRMED
+UID:pvb-fase4-accordering@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:[Fase 5] START UITVOERING PROEVE
+DESCRIPTION:Start met de opbouw van de illumination module topmodule XT:860.\nLocatie: ASML gebouw 4\, cleanroom\, cabine 4G12\, 3de shift.\n\nBelangrijk vanaf dag 1:\n- Foto's maken van werkzaamheden\n- Checklists/testlijsten invullen\n- Tekeningen en schema's bewaren\n- Notities maken over werkprocessen
+LOCATION:ASML Gebouw 4 - Cleanroom Cabine 4G12
+STATUS:CONFIRMED
+UID:pvb-fase5-start@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260323
+SUMMARY:[Fase 5] Periode 1: Start opbouw module (wk 9-12)
+DESCRIPTION:Eerste fase van de uitvoering:\n- Procedure lezen en doornemen\n- LMRA uitvoeren\n- Werkzaamheden afstemmen met collega\n- 4 poten en 3 pinnen afmeten met schuifmaat\n- Module heisen en monteren\n- Slangen en connectoren aansluiten\n- Bewijsmateriaal verzamelen per werkproces
+LOCATION:ASML Gebouw 4 - Cleanroom Cabine 4G12
+STATUS:CONFIRMED
+UID:pvb-fase5-periode1@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:[Fase 5] TUSSENTIJDSE CHECK: Bewijsmateriaal per werkproces
+DESCRIPTION:Controleer of je voor ELK werkproces al bewijsmateriaal hebt:\n- B1-K1-W1: Voorbereiding\n- B1-K1-W2: Vervaardiging\n- B1-K1-W3: Plaatsing en controle\n- B1-K1-W4: Aansluitingen\n- P3-K1 werkprocessen\n- P3-K2 werkprocessen\n\nZo niet: plan in wanneer je dit alsnog gaat doen.
+LOCATION:ASML
+STATUS:CONFIRMED
+UID:pvb-fase5-check1@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:[Fase 5] Schoolbeoordelaar mailen voor observatiebezoek
+DESCRIPTION:Stuur een mail naar de schoolbeoordelaar om een afspraak te maken voor het observatiebezoek.\nGegevens van de schoolbeoordelaar vind je in EsMEI bij je examenopdracht.\n\nDe praktijkbeoordelaar moet ook aanwezig zijn bij het observatiebezoek.
+LOCATION:Per mail
+STATUS:CONFIRMED
+UID:pvb-fase5-mail-beoordelaar@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260426
+SUMMARY:[Fase 5] Periode 2: Voortgang + observatiebezoek (wk 13-17)
+DESCRIPTION:Doorgaan met opbouw en bewijsmateriaal verzamelen.\n- Observatiebezoek plannen en uitvoeren\n- Collega instrueren en feedback vragen\n- Afwijkingen documenteren
+LOCATION:ASML Gebouw 4 - Cleanroom Cabine 4G12
+STATUS:CONFIRMED
+UID:pvb-fase5-periode2@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:[Fase 5] DEADLINE: Observatiebezoek (uiterlijk deze week)
+DESCRIPTION:Het observatiebezoek moet uiterlijk deze week plaatsvinden.\n\nAanwezig:\n- Schoolbeoordelaar\n- Praktijkbeoordelaar\n- Jij\n\nBelangrijk: Leg direct een datum vast voor het eindgesprek!\n\nDe schoolbeoordelaar beoordeelt je NIET\, maar wil zien waar je mee bezig bent.
+LOCATION:ASML Gebouw 4
+STATUS:CONFIRMED
+UID:pvb-fase5-observatie@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260524
+SUMMARY:[Fase 5] Periode 3: Kwalificatie + afronden (wk 18-21)
+DESCRIPTION:Laatste fase van de uitvoering:\n- Kwalificatietesten uitvoeren en documenteren\n- Alle meetresultaten vastleggen\n- Werkzaamheden afronden\n- Controleren of alle bewijslast compleet is
+LOCATION:ASML Gebouw 4 - Cleanroom Cabine 4G12
+STATUS:CONFIRMED
+UID:pvb-fase5-periode3@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:[Fase 5] TUSSENTIJDSE CHECK: Alle bewijslast compleet?
+DESCRIPTION:Controleer of ALLE bewijslast voor de projectmap compleet is:\n- Foto's per werkproces\n- Ingevulde checklists en testlijsten\n- Tekeningen en schema's\n- Meetresultaten kwalificatie\n- Afwijkingsrapporten (indien van toepassing)\n- Feedback van collega\n\nWat mist moet je nu nog regelen!
+LOCATION:ASML
+STATUS:CONFIRMED
+UID:pvb-fase5-check2@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:[Fase 5] DEADLINE: Werkzaamheden afgerond
+DESCRIPTION:Alle praktische werkzaamheden voor de proeve moeten nu afgerond zijn.\nVanaf nu focus op documentatie (projectmap) en presentatie.
+LOCATION:ASML
+STATUS:CONFIRMED
+UID:pvb-fase5-klaar@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260614
+SUMMARY:[Fase 6] Projectmap schrijven (wk 22-24)
+DESCRIPTION:Schrijf de projectmap - 1 document met alle bewijslast:\n- Duidelijke inhoudsopgave\n- Per werkproces een hoofdstuk (B1-K1-W1\, B1-K1-W2\, etc.)\n- Werkproces-nummer in hoofdstuktitel\n- Alle bewijsmateriaal opnemen\n\nInleveren in EsMEI bij 'bewijsstukken'.
+LOCATION:Thuis / School
+STATUS:CONFIRMED
+UID:pvb-fase6-projectmap@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:[Fase 6] DEADLINE: Projectmap inleveren in EsMEI
+DESCRIPTION:De projectmap moet vandaag ingeleverd zijn in EsMEI bij 'bewijsstukken'.\n\nCheck:\n- Is het overzichtelijk?\n- Staan alle werkprocessen erin?\n- Hoeven beoordelaars niet te puzzelen?\n\nIndien nodig: 'Verklaring omtrent bedrijfsgeheim' invullen.
+LOCATION:EsMEI
+STATUS:CONFIRMED
+UID:pvb-fase6-deadline-projectmap@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260621
+SUMMARY:[Fase 6] Eindpresentatie maken (wk 24-25)
+DESCRIPTION:Maak een PowerPoint presentatie:\n- Overzicht van het project\n- Per werkproces toelichten wat je gedaan hebt\n- Hoe je de werkprocessen hebt uitgevoerd\n\nInleveren in EsMEI.
+LOCATION:Thuis / School
+STATUS:CONFIRMED
+UID:pvb-fase6-presentatie@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:[Fase 6] DEADLINE: Eindpresentatie inleveren in EsMEI
+DESCRIPTION:De PowerPoint presentatie moet vandaag ingeleverd zijn in EsMEI.
+LOCATION:EsMEI
+STATUS:CONFIRMED
+UID:pvb-fase6-deadline-presentatie@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260624
+SUMMARY:[Fase 7] Check: Observatiepunten ingevuld door praktijkbeoordelaar?
+DESCRIPTION:Controleer of je praktijkbeoordelaar de observatiepunten in EsMEI heeft ingevuld.\nDit MOET klaar zijn voor het eindgesprek!
+LOCATION:EsMEI
+STATUS:CONFIRMED
+UID:pvb-fase7-check@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:[Fase 7] EINDGESPREK + BEOORDELING
+DESCRIPTION:Het eindgesprek en de presentatie.\n\n- Presentatie geven aan beoordelaars\n- Uitleggen wat je gedaan hebt per werkproces\n- Vragen beantwoorden\n- Beoordelaars vullen individuele beoordeling in\n- Gezamenlijke beoordeling\n- Resultaat ontvangen\n\nGefeliciteerd als je slaagt!
+LOCATION:Summa College
+STATUS:CONFIRMED
+UID:pvb-fase7-eindgesprek@mechatronica
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:EINDDATUM PROEVE VAN BEKWAAMHEID
+DESCRIPTION:Officiële einddatum van de Proeve van Bekwaamheid.\nAlles moet voor deze datum afgerond zijn.
+STATUS:CONFIRMED
+UID:pvb-einddatum@mechatronica
+END:VEVENT
+END:VCALENDAR
